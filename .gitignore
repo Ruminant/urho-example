@@ -1,0 +1,9 @@
+# vscode settings
+.vscode/
+
+# cmake build directory
+build/
+
+# urho log
+Urho3D.log
+
